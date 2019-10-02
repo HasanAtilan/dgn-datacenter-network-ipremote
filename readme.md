@@ -1,5 +1,4 @@
-# Kodlama ve Zafiyet Bana Aittir.
-# Kendilerine Bildirdim Ama Fixliyemediler
+# Kodlama Bana Aittir.
 <p> ./dgn eski ip yeni ip şeklinde remote edebilirsiniz
 <p> sadece routerdeki ipleri kontrol edin :)
 <p> Genellikle Full-Stack Developerim Her Türlü Yazılımı Kodlarım
