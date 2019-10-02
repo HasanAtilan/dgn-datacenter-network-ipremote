@@ -1,7 +1,7 @@
 # Kodlama ve Zafiyet Bana Aittir.
 # Kendilerine Bildirdim Ama Fixliyemediler
 <p> ./dgn eski ip yeni ip şeklinde remote edebilirsiniz
-<p> fixleme mantıgı: routerdeki ipleri kontrol edin devamı yok
+<p> sadece routerdeki ipleri kontrol edin :)
 <p> Genellikle Full-Stack Developerim Her Türlü Yazılımı Kodlarım
 
 <p> telegram: @netmrhasan
