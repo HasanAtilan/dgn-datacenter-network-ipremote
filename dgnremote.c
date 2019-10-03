@@ -1,5 +1,5 @@
 //CODED HASAN ATİLAN.
-//STRESSER.ME TEAM
+//STRESSER.ME TEAM.
 
 #include <stdio.h>
 #define kirmizi "\033[0;31m"
